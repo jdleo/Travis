@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="3" failures="0" hostname="Johns-MacBook-Pro.local" name="tests.MathsTests" skipped="0" tests="3" time="0.335" timestamp="2018-11-09T03:52:14">
+  <properties>
+    <property name="gopherProxySet" value="false" />
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
+    <property name="ant.library.dir" value="/usr/local/Cellar/ant/1.10.5/libexec/lib" />
+    <property name="env.TERM" value="xterm-256color" />
+    <property name="ant.file.type" value="file" />
+    <property name="env.PWD" value="/Users/j/CompSci/Travis" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="java.specification.version" value="9" />
+    <property name="env.LANG" value="en_US.UTF-8" />
+    <property name="ant.project.name" value="Travis" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="java.class.path" value="/Users/j/CompSci/Travis/bin:/Users/j/.p2/pool/plugins/org.junit.jupiter.api_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.jupiter.engine_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.jupiter.migrationsupport_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.jupiter.params_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.commons_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.engine_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.launcher_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.runner_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.suite.api_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.vintage.engine_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.opentest4j_1.0.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.apiguardian_1.0.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit_4.12.0.v201504281640/junit.jar:/Users/j/.p2/pool/plugins/org.hamcrest.core_1.3.0.v20180420-1519.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant-launcher.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant-junit.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant-junit4.jar" />
+    <property name="env.HOME" value="/Users/j" />
+    <property name="source" value="9" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="user.timezone" value="" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="java.vm.specification.version" value="9" />
+    <property name="ant.file.type.Travis" value="file" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="user.country" value="US" />
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.MathsTests skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/j/CompSci/Travis/junit/TEST-tests.MathsTests.xml crashfile=/Users/j/CompSci/Travis/junitvmwatcher7711183257121458901.properties propsfile=/Users/j/CompSci/Travis/junit5725349816168642946.properties" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="/Users/j" />
+    <property name="user.language" value="en" />
+    <property name="env.NVM_DIR" value="/Users/j/.nvm" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home" />
+    <property name="file.separator" value="/" />
+    <property name="ant.file.Travis" value="/Users/j/CompSci/Travis/build.xml" />
+    <property name="basedir" value="/Users/j/CompSci/Travis" />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="ant.java.version" value="9" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="env.NVM_BIN" value="/Users/j/.nvm/versions/node/v6.11.1/bin" />
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
+    <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.DxjYswqvwE/Render" />
+    <property name="env.XPC_SERVICE_NAME" value="0" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="9.0.4+11" />
+    <property name="env.TERM_PROGRAM_VERSION" value="421" />
+    <property name="user.name" value="j" />
+    <property name="ant.file" value="/Users/j/CompSci/Travis/build.xml" />
+    <property name="env.PATH" value="/Users/j/anaconda/bin:/Users/j/.nvm/versions/node/v6.11.1/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin" />
+    <property name="path.separator" value=":" />
+    <property name="os.version" value="10.14" />
+    <property name="env.LOGNAME" value="j" />
+    <property name="env.XPC_FLAGS" value="0x0" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.invoked-targets" value="MathsTests" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.TERM_SESSION_ID" value="5427DC88-4CFB-417C-B5F8-EF1237B253DD" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="env.SHLVL" value="2" />
+    <property name="env.NVM_CD_FLAGS" value="" />
+    <property name="ant.core.lib" value="/usr/local/Cellar/ant/1.10.5/libexec/lib/ant.jar" />
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="/var/folders/49/r73pw0bn6pq7rbzmlrzyvnzw0000gn/T/" />
+    <property name="java.version" value="9.0.4" />
+    <property name="user.dir" value="/Users/j/CompSci/Travis" />
+    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.WOLQ3Rl70A/Listeners" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
+    <property name="ant.home" value="/usr/local/Cellar/ant/1.10.5/libexec" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="target" value="9" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.5 compiled on July 10 2018" />
+    <property name="env.TMPDIR" value="/var/folders/49/r73pw0bn6pq7rbzmlrzyvnzw0000gn/T/" />
+    <property name="java.library.path" value="/Users/j/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.version" value="9.0.4+11" />
+    <property name="env.JAVA_MAIN_CLASS_47881" value="org.apache.tools.ant.launch.Launcher" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="env.TERM_PROGRAM" value="Apple_Terminal" />
+    <property name="java.class.version" value="53.0" />
+    <property name="env.USER" value="j" />
+    <property name="ant.project.default-target" value="build" />
+  </properties>
+  <testcase classname="tests.MathsTests" name="initializationError" time="0.004">
+    <error message="The class tests.MathsTests is not public." type="java.lang.Exception">java.lang.Exception: The class tests.MathsTests is not public.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:488)
+</error>
+    <error message="Test class should have exactly one public constructor" type="java.lang.Exception">java.lang.Exception: Test class should have exactly one public constructor
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:488)
+</error>
+    <error message="No runnable methods" type="java.lang.Exception">java.lang.Exception: No runnable methods
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:488)
+</error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
