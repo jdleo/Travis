@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="3" failures="0" hostname="Johns-MacBook-Pro.local" name="tests.MathsTests" skipped="0" tests="3" time="0.335" timestamp="2018-11-09T03:52:14">
+<testsuite errors="3" failures="0" hostname="Johns-MacBook-Pro.local" name="tests.MathsTests" skipped="0" tests="3" time="0.384" timestamp="2018-11-10T19:34:48">
   <properties>
     <property name="gopherProxySet" value="false" />
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
@@ -13,7 +13,7 @@
     <property name="ant.project.name" value="Travis" />
     <property name="sun.cpu.isalist" value="" />
     <property name="sun.jnu.encoding" value="UTF-8" />
-    <property name="java.class.path" value="/Users/j/CompSci/Travis/bin:/Users/j/.p2/pool/plugins/org.junit.jupiter.api_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.jupiter.engine_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.jupiter.migrationsupport_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.jupiter.params_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.commons_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.engine_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.launcher_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.runner_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.platform.suite.api_1.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit.vintage.engine_5.1.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.opentest4j_1.0.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.apiguardian_1.0.0.v20180327-1502.jar:/Users/j/.p2/pool/plugins/org.junit_4.12.0.v201504281640/junit.jar:/Users/j/.p2/pool/plugins/org.hamcrest.core_1.3.0.v20180420-1519.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant-launcher.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant-junit.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant-junit4.jar" />
+    <property name="java.class.path" value="/Users/j/CompSci/Travis/bin:/Users/j/CompSci/Travis/lib/org.junit.jupiter.api_5.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.junit.jupiter.engine_5.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.junit.jupiter.migrationsupport_5.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.junit.jupiter.params_5.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.junit.platform.commons_1.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.junit.platform.engine_1.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.junit.platform.launcher_1.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.junit.platform.runner_1.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.junit.platform.suite.api_1.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.junit.vintage.engine_5.1.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.opentest4j_1.0.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/org.apiguardian_1.0.0.v20180327-1502.jar:/Users/j/CompSci/Travis/lib/junit.jar:/Users/j/CompSci/Travis/lib/org.hamcrest.core_1.3.0.v20180420-1519.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant-launcher.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant-junit.jar:/usr/local/Cellar/ant/1.10.5/libexec/lib/ant-junit4.jar" />
     <property name="env.HOME" value="/Users/j" />
     <property name="source" value="9" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
@@ -27,7 +27,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="user.country" value="US" />
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.MathsTests skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/j/CompSci/Travis/junit/TEST-tests.MathsTests.xml crashfile=/Users/j/CompSci/Travis/junitvmwatcher7711183257121458901.properties propsfile=/Users/j/CompSci/Travis/junit5725349816168642946.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.MathsTests skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/j/CompSci/Travis/junit/TEST-tests.MathsTests.xml crashfile=/Users/j/CompSci/Travis/junitvmwatcher12616881316051057269.properties propsfile=/Users/j/CompSci/Travis/junit13689780158106230046.properties" />
     <property name="jdk.debug" value="release" />
     <property name="sun.cpu.endian" value="little" />
     <property name="user.home" value="/Users/j" />
@@ -43,6 +43,7 @@
     <property name="ant.java.version" value="9" />
     <property name="java.specification.name" value="Java Platform API Specification" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="env.JAVA_MAIN_CLASS_52362" value="org.apache.tools.ant.launch.Launcher" />
     <property name="env.NVM_BIN" value="/Users/j/.nvm/versions/node/v6.11.1/bin" />
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
     <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.DxjYswqvwE/Render" />
@@ -85,14 +86,13 @@
     <property name="java.vm.info" value="mixed mode" />
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="java.vm.version" value="9.0.4+11" />
-    <property name="env.JAVA_MAIN_CLASS_47881" value="org.apache.tools.ant.launch.Launcher" />
     <property name="sun.io.unicode.encoding" value="UnicodeBig" />
     <property name="env.TERM_PROGRAM" value="Apple_Terminal" />
     <property name="java.class.version" value="53.0" />
     <property name="env.USER" value="j" />
     <property name="ant.project.default-target" value="build" />
   </properties>
-  <testcase classname="tests.MathsTests" name="initializationError" time="0.004">
+  <testcase classname="tests.MathsTests" name="initializationError" time="0.0">
     <error message="The class tests.MathsTests is not public." type="java.lang.Exception">java.lang.Exception: The class tests.MathsTests is not public.
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
