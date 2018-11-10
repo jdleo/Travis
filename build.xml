@@ -71,8 +71,8 @@
     </target>
     <target name="MathsTests">
         <mkdir dir="${junit.output.dir}"/>
-        <junit fork="yes" printsummary="withOutAndErr">
-            <formatter type="xml"/>
+        <junit fork="yes" printsummary="withOutAndErr" errorProperty="test.failed" failureProperty="test.failed" logfailedtests="yes">
+            <formatter type="plain" usefile="false"/>
             <test name="tests.MathsTests" todir="${junit.output.dir}"/>
             <jvmarg line="-ea"/>
             <classpath refid="run.MathsTests.classpath"/>

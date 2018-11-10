@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import app.Maths;
 
-class MathsTests {
+public class MathsTests {
 
 	@Test
 	void sum() {
